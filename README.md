@@ -19,9 +19,9 @@ $cd Menatic-SubDominator
 $pip3 install -r requirements.txt
 
 
-$python3 subdominator.py -d google.net
+$python3 subdominator.py -d domin.com
 
-بدل google.net
+غير هذه الكلمةdomin.com برابط شركة اتصالات
 اكتب هوست شركتك
 
 اشباح_اندرويد
